@@ -1,0 +1,11 @@
+This is the code of OntoSpider and Literature Crawler, as they were proposed 
+in the student thesis:
+http://igitur-archive.library.uu.nl/student-theses/2008-0110-201308/UUindex.html
+
+The thesis was largely theoretical, the code is not fully functional yet and
+only gives an idea of how the approach that is proposed in the thesis could
+be implemented.
+
+This code is on github in case others would like to examine it or even work on it.
+For the time being, the author will be busy with totally different things.
+
